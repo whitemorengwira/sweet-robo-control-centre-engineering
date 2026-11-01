@@ -1,6 +1,6 @@
 # Control Centre Engineering
 
-### Backend systems, APIs and quality assurance for connected machines
+### AI-powered management, remote diagnostics and camera-AI workflows
 
 **Whitemore Ngwira · Engineering contributions at Sweet Robo**
 
@@ -14,13 +14,21 @@
 
 ## My work
 
-During my work at Sweet Robo, I contributed to the control-centre software supporting connected machines: backend and portal workflows, API consistency, automated testing and engineering handovers.
+I contribute AI-powered software solutions to the Sweet Robo / Futureino management platform, including remote diagnostics and camera-AI workflows. My control-centre engineering also covers backend and portal workflows, API documentation, contract checks and automated validation.
 
-**Skills:** Backend engineering · TypeScript · APIs · Kotlin · Continuous integration · Regression testing
+**Skills:** AI-powered solutions · Remote diagnostics · Camera-AI workflows · Backend engineering · TypeScript · APIs · Kotlin · Continuous integration · Regression testing
 
 ## The product context
 
-Sweet Robo publicly describes a management platform for machine monitoring, analytics, technical support and remote control. Futureino’s public catalogue provides context for the connected-machine product categories. [Official source](https://sweetrobo.com/). [Futureino product catalogue](https://futureino.ai/).
+Sweet Robo publicly describes an AI-powered management platform for machine monitoring, analytics, technical support and remote control, alongside AI-driven diagnostics. Futureino’s public catalogue provides context for the connected-machine product categories. [Official source](https://sweetrobo.com/). [Futureino product catalogue](https://futureino.ai/).
+
+## AI-powered solutions
+
+- **AI-powered management platform:** I contribute AI solutions and supporting software engineering within the existing team-owned platform for connected machines.
+- **Remote diagnostics and camera-AI workflows:** My AI solution work also includes these connected-machine support workflows, alongside debugging and validation.
+- **AI Photo Booth app:** My related [application showcase](https://github.com/whitemorengwira/sweet-robo-photo-booth) covers AI-powered Android application engineering and diagnostics.
+
+These public summaries explain my contribution within team-owned products; proprietary implementation and operational details remain private.
 
 ## My engineering contributions
 
@@ -49,8 +57,8 @@ Across my connected-machine work, I use **Claude Code** and **OpenAI Codex** to 
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
 - [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine)
-- [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth)
-- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) — this showcase
+- [AI Photo Booth App](https://github.com/whitemorengwira/sweet-robo-photo-booth) — AI-powered application engineering
+- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) — AI-powered management, remote diagnostics and camera-AI workflows — this showcase
 
 ## Sources and portfolio scope
 
