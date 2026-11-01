@@ -1,76 +1,55 @@
 # Control Centre Engineering
 
-### Backend systems, APIs & quality assurance
+### Backend systems, APIs and quality assurance for connected machines
 
-**Whitemore Ngwira · Sweet Robo · Selected engineering contributions**
+**Whitemore Ngwira · Engineering contributions at Sweet Robo**
 
-![Original concept illustration for Control Centre Engineering; not actual company hardware or software](assets/hero.png)
+[Sweet Robo — official website](https://sweetrobo.com/) · [Futureino — official website](https://futureino.ai/) · [Explore the public platform page](https://sweetrobo.com/)
 
-*AI-generated concept illustration. The equipment and interface shown are fictional; they are not photographs or screenshots of Sweet Robo products.*
+<p align="center">
+  <a href="https://sweetrobo.com/"><img src="assets/control-centre-official.webp" alt="Sweet Robo’s published management-platform marketing visual. It provides product context; it is not a screenshot of an interface I claim to have designed." width="560"></a>
+</p>
 
-## At a glance
+*Sweet Robo’s published management-platform marketing visual. It provides product context; it is not a screenshot of an interface I claim to have designed. [View source image](https://sweetrobo.com/american/ai-app.webp).*
 
-During my work at Sweet Robo, I contributed to the control-centre software that supports connected machines: backend and portal changes, API consistency, automated testing and engineering handovers.
+## My work
 
-**Focus:** Backend, API and delivery-quality engineering  
-**Skills demonstrated:** Backend engineering · APIs · TypeScript · Kotlin · CI · Regression testing
+During my work at Sweet Robo, I contributed to the control-centre software supporting connected machines: backend and portal workflows, API consistency, automated testing and engineering handovers.
 
-## The engineering challenge
+**Skills:** Backend engineering · TypeScript · APIs · Kotlin · Continuous integration · Regression testing
 
-A control centre connects machine behaviour with operator workflows. Changes need clear API expectations, useful regression coverage and evidence that reviewers can assess before release.
+## The product context
 
-## My contribution
+Sweet Robo publicly describes a management platform for machine monitoring, analytics, technical support and remote control. Futureino’s public catalogue provides context for the connected-machine product categories. [Official source](https://sweetrobo.com/). [Futureino product catalogue](https://futureino.ai/).
 
-### Backend and portal workflows
+## My engineering contributions
 
-I contributed application changes for operator and account-management workflows, with supporting validation and review documentation.
+- **Backend and portal workflows:** Contributed changes to operator and account-management workflows, supported by validation and review documentation.
+- **API consistency:** Worked on API documentation and contract checks to make expected behaviour clearer across the software that uses it.
+- **Continuous integration:** Added Kotlin test execution to CI and checked that missing, failed or skipped results could not be reported as a passing run.
+- **Delivery evidence:** Prepared test evidence and review notes that distinguish implementation, technical review and deployment status.
 
-### API consistency
+## What I produced
 
-I worked on API documentation and contract checks to make expected behaviour clearer across the software that uses it.
+Backend and portal changes, API quality artefacts and automated validation for technical review.
 
-### Automated quality checks
+## Engineering approach
 
-I added Kotlin test execution to continuous integration and verified that missing, failed or skipped test results could not be mistaken for a passing run.
+![High-level engineering process; not a proprietary system diagram](assets/workflow.svg)
 
-### Engineering handovers
+Joining application engineering with API discipline and repeatable quality checks across an existing team-owned system.
 
-I assembled test evidence and review notes while keeping implementation, review, merge and deployment status distinct.
-
-## How I approached the work
-
-![Define expected behaviour → Implement & review → Run automated checks → Prepare release evidence](assets/workflow.svg)
-
-*Illustrative delivery process; not a deployment topology, schema or internal service map.*
-
-1. Define expected behaviour.
-2. Implement & review.
-3. Run automated checks.
-4. Prepare release evidence.
-
-## What the work produced
-
-The work produced backend and portal changes, API quality artefacts and automated validation for technical review.
-
-This describes contributions within an existing team-owned system. It does not claim sole authorship, production deployment, fleet-wide acceptance or measured commercial impact.
-
-## Public review boundary
-
-This is a documentation-only portfolio showcase. Private source code, internal platform names, infrastructure, endpoints, schemas, credentials, customer information, operational records and internal screenshots are excluded. Supporting work records remain private.
-
-The narrative explains my contribution within a team-owned product. The concept artwork is not evidence of implementation or an employer-approved product design.
-
-## Explore the series
+## Explore the engineering series
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
 - [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine)
 - [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth)
+- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) — this showcase
 
-## Contact
+## Sources and portfolio scope
 
-[GitHub profile](https://github.com/whitemorengwira) · [N.White Systems](https://nwhite.systems/) · [Email Whitemore](mailto:hello@nwhite.systems)
+Official product information and imagery: [Futureino](https://futureino.ai/) and [Sweet Robo](https://sweetrobo.com/). Product descriptions are attributed public context; the first-person contribution statements describe my own work within an existing team.
 
-I can discuss my engineering approach and responsibilities within the applicable confidentiality boundaries.
+This documentation-only portfolio excludes proprietary source code, private infrastructure and non-public operational information. It does not imply sole product authorship, employer endorsement or completion of every hardware and release milestone. See [image credits and viewing notice](COPYRIGHT.md).
 
-See [Portfolio viewing notice](COPYRIGHT.md).
-
+[Contact me](mailto:hello@nwhite.systems) · [N.White Systems](https://nwhite.systems/) · [GitHub profile](https://github.com/whitemorengwira)
